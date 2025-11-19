@@ -1,0 +1,15 @@
+{
+  "name": "roblox-monitor-api",
+  "version": "1.0.0",
+  "description": "API for monitoring King Legacy Roblox servers",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2",
+    "mongodb": "^5.7.0"
+  }
+}
